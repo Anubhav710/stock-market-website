@@ -49,7 +49,7 @@ const Searchbar = () => {
       {active && (
         <div className="absolute w-full bg-[#87492b] h-64 px-3 rounded-b-2xl border-t-[1px]">
           {data.map((item, i) => (
-            <h1 key={i}>{item.name}</h1>
+            <h1 key={i}>Apple</h1>
           ))}
         </div>
       )}
