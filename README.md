@@ -1,3 +1,13 @@
+Website Pic:-
+
+
+![1](https://github.com/Anubhav710/stock-market-website/assets/100343499/966f8e31-7d8a-4603-9aa8-bcc4fa967f0c)
+![4](https://github.com/Anubhav710/stock-market-website/assets/100343499/68ac8099-48b2-434c-a889-2c33b5241815)
+![2](https://github.com/Anubhav710/stock-market-website/assets/100343499/225b4f7d-4c18-44bc-ae42-15c1a4df02f5)
+![3](https://github.com/Anubhav710/stock-market-website/assets/100343499/32656b23-e93c-457d-8fd0-ee230fbf6c07)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
